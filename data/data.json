@@ -10,7 +10,7 @@
     "termination": 0
   },
   {
-    "question": "What’s your biggest fear?",
+    "question": "What's your biggest fear?",
     "shots": 1,
     "termination": 0
   },
@@ -25,17 +25,12 @@
     "termination": 0
   },
   {
-    "question": "What is the most broke thing you’ve ever done?",
+    "question": "What is the most broke thing you've ever done?",
     "shots": 1,
     "termination": 0
   },
   {
-    "question": "Who is the most interesting person you know?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "What’s your biggest secret?",
+    "question": "What's your biggest secret?",
     "shots": 1,
     "termination": 0
   },
@@ -55,12 +50,12 @@
     "termination": 0
   },
   {
-    "question": "What’s the weirdest thing about you?",
+    "question": "What's the weirdest thing about you?",
     "shots": 1,
     "termination": 0
   },
   {
-    "question": "What’s your biggest regret?",
+    "question": "What's your biggest regret?",
     "shots": 2,
     "termination": 0
   },
@@ -70,7 +65,7 @@
     "termination": 0
   },
   {
-    "question": "What’s your biggest dating horror story?",
+    "question": "What's your biggest dating horror story?",
     "shots": 2,
     "termination": 0
   },
@@ -85,7 +80,7 @@
     "termination": 0
   },
   {
-    "question": "What’s the most romantic thing you’ve ever done?",
+    "question": "What's the most romantic thing you've ever done?",
     "shots": 1,
     "termination": 0
   },
@@ -110,7 +105,7 @@
     "termination": 0
   },
   {
-    "question": "Who’s the most embarrassing person you know?",
+    "question": "Who's the most embarrassing person you know?",
     "shots": 2,
     "termination": 0
   },
@@ -160,138 +155,13 @@
     "termination": 0
   },
   {
-    "question": "What is the most daring thing you’ve ever done?",
+    "question": "What is the most daring thing you've ever done?",
     "shots": 2,
     "termination": 0
   },
   {
-    "question": "What’s the scariest animal you’ve ever come across?",
+    "question": "What's the scariest animal you've ever come across?",
     "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Who is the most social out of your friends?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Who is the most loyal friend?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Who always has to have the last word?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Who is the messiest?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Who is the most popular?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Who is the biggest party animal?",
-    "shots": 2,
-    "termination": 0
-  },
-  {
-    "question": "Who is the most gullible?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Who has the worst taste in music?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Who is always late?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Who is always broke?",
-    "shots": 2,
-    "termination": 0
-  },
-  {
-    "question": "Who is the biggest flirt?",
-    "shots": 2,
-    "termination": 0
-  },
-  {
-    "question": "What are your friend’s parents like?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "What is your friend’s most annoying habit?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "What is your friend’s biggest insecurity?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "When was the last time you hung out together?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "What do you think is the best thing about your friend?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "What do you think is the worst thing about your friend?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Do you have any inside jokes with your friend?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "What’s the funniest thing that’s ever happened between you and your friends?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Has your friend ever done anything that hurt your feelings?",
-    "shots": 2,
-    "termination": 0
-  },
-  {
-    "question": "What is your friends’ biggest accomplishment?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Is there anything about your friends that you don’t like?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "How close are you to your friends?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Do you think your friends would do anything for you?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Would you do anything for your friends?",
-    "shots": 2,
     "termination": 0
   },
   {
@@ -300,17 +170,7 @@
     "termination": 0
   },
   {
-    "question": "What do you think the future holds for you and your friends?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "If you could change one thing about your friends, what would it be?",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Do you think there’s potential for a romantic relationship between any of your friends?",
+    "question": "Do you think there's potential for a romantic relationship between any of your friends?",
     "shots": 2,
     "termination": 0
   },
@@ -350,7 +210,7 @@
     "termination": 0
   },
   {
-    "question": "What is the kinkiest thing you’ve ever done?",
+    "question": "What is the kinkiest thing you've ever done?",
     "shots": 2,
     "termination": 0
   },
@@ -365,7 +225,7 @@
     "termination": 0
   },
   {
-    "question": "What’s the dirtiest thing you’ve ever said during sex?",
+    "question": "What's the dirtiest thing you've ever said during sex?",
     "shots": 2,
     "termination": 0
   },
@@ -385,12 +245,12 @@
     "termination": 0
   },
   {
-    "question": "What’s your biggest sexual fantasy?",
+    "question": "What's your biggest sexual fantasy?",
     "shots": 3,
     "termination": 1
   },
   {
-    "question": "What’s your biggest turn-on?",
+    "question": "What's your biggest turn-on?",
     "shots": 1,
     "termination": 0
   },
@@ -400,7 +260,7 @@
     "termination": 0
   },
   {
-    "question": "What’s your favourite sexual position?",
+    "question": "What's your favourite sexual position?",
     "shots": 1,
     "termination": 0
   },
@@ -410,7 +270,7 @@
     "termination": 0
   },
   {
-    "question": "What was the most awkward thing that’s ever happened to you during sex?",
+    "question": "What was the most awkward thing that's ever happened to you during sex?",
     "shots": 2,
     "termination": 0
   },
@@ -465,7 +325,7 @@
     "termination": 0
   },
   {
-    "question": "What’s the most times you’ve had sex in one day?",
+    "question": "What's the most times you've had sex in one day?",
     "shots": 2,
     "termination": 0
   },
@@ -485,20 +345,208 @@
     "termination": 1
   },
   {
-    "question": "Impersonate one of the people in this room.",
-    "shots": 2,
-    "termination": 0
-  },
-  {
-    "question": "Imitate your partner when they are angry.",
-    "shots": 1,
-    "termination": 0
-  },
-  {
     "question": "List five of your exes in alphabetical order.",
     "shots": 2,
     "termination": 0
   },
   {
-    "question": "Text your ex about the prospects of getting
- 
+    "question": "Text your ex about the prospects of getting back together.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Twerk to your favorite song.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Nod your head if you have had more than ten exes.",
+    "shots": 3,
+    "termination": 1
+  },
+  {
+    "question": "Kiss the person you like the most on the cheek.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Do sexy mounings like someone receiving it",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Try acting like a shy girl.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Use a pick-up line on someone you like in the group.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Demonstrate the proper way to finger a woman.",
+    "shots": 3,
+    "termination": 1
+  },
+  {
+    "question": "Kiss the stomach of someone you like the most.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Try your best pick-up lines on someone in this house.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Look at the person on your left seductively.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Put on blindfolds and kiss what is in front of you.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Send a topless selfie to someone you slept with long ago.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Let someone lick melted chocolate from your mouth.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Show the rest of the players the photo that got you the most likes online.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Touch the butt of the person on your left.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Demonstrate how to put on a condom using a banana.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Call 112 and ask if they need help.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Call the nearest police station and ask if you can have a date there.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Guess and rate the sxual performance of everyone in this room.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Allow someone in the room to spank you.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Send a message to your crush confessing your feelings.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe your most embarrassing bedroom moment.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Share your most awkward dating experience.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe your dream romantic getaway.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share your favorite romantic gesture.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Act out a marriage proposal to someone in the room.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe your ideal wedding dress or suit.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share your most romantic memory.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Describe your perfect date night.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share your favorite love song and explain why you love it.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share your go-to move to impress someone you like.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Describe the qualities you find most attractive in a partner.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Describe the most romantic gift you've ever received.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share a fun and light-hearted dating tip.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Describe your dream proposal scenario.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share a piece of relationship advice based on your experience.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Describe a romantic moment that caught you by surprise.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share a quirky and unique dating preference you have.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Describe your dream wedding.",
+    "shots": 1,
+    "termination": 0
+  }
+]
