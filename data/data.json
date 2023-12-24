@@ -1,0 +1,504 @@
+[
+  {
+    "question": "What are you most insecure about?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who was your first kiss with?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What’s your biggest fear?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "When was the last time you lied?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "When was the last time you wet your bed?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What is the most broke thing you’ve ever done?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who is the most interesting person you know?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What’s your biggest secret?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Would you kiss the person to your left?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "If you could change one thing about yourself, what would it be?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who would you choose to be if you could be anyone else for a day?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What’s the weirdest thing about you?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What’s your biggest regret?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Who do you secretly hate?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What’s your biggest dating horror story?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What was your dream job when you were a kid?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who do you have a crush on?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What’s the most romantic thing you’ve ever done?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What are your thoughts on sex before marriage?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Would you ever consider having an open relationship?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Do you like your own handwriting?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "How many beers can you drink in one sitting?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who’s the most embarrassing person you know?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Have you ever skinny-dipped?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Have you ever done something naughty with a teacher?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What do you think is the worst thing about you?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What was the first drink you ever had?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Have you ever had a blackout while drinking?",
+    "shots": 3,
+    "termination": 1
+  },
+  {
+    "question": "How many drinks have you had so far tonight?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What was your first kiss like?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who was your first crush?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Do you have any tattoos or piercings?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What is the most daring thing you’ve ever done?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What’s the scariest animal you’ve ever come across?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who is the most social out of your friends?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who is the most loyal friend?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who always has to have the last word?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who is the messiest?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who is the most popular?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who is the biggest party animal?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Who is the most gullible?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who has the worst taste in music?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who is always late?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Who is always broke?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Who is the biggest flirt?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What are your friend’s parents like?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What is your friend’s most annoying habit?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What is your friend’s biggest insecurity?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "When was the last time you hung out together?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What do you think is the best thing about your friend?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What do you think is the worst thing about your friend?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Do you have any inside jokes with your friend?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What’s the funniest thing that’s ever happened between you and your friends?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Has your friend ever done anything that hurt your feelings?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What is your friends’ biggest accomplishment?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Is there anything about your friends that you don’t like?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "How close are you to your friends?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Do you think your friends would do anything for you?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Would you do anything for your friends?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "If you could, would you want to trade lives with any of your friends?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What do you think the future holds for you and your friends?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you could change one thing about your friends, what would it be?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Do you think there’s potential for a romantic relationship between any of your friends?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What would you do if one of your friends started dating your ex?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Have you ever used sex toys?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Do you like using toys during sex?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Have you ever filmed yourself having sex?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What are your thoughts on bondage and S&M?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "How many partners have you had in the past year?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Who is your favorite pornstar?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What is the kinkiest thing you’ve ever done?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Have you ever been involved in an orgy?",
+    "shots": 3,
+    "termination": 1
+  },
+  {
+    "question": "What are your fetishes?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What’s the dirtiest thing you’ve ever said during sex?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "How do you feel about threesomes?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Have you ever gone to a public place without underwear?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "How many people have you slept with?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What’s your biggest sexual fantasy?",
+    "shots": 3,
+    "termination": 1
+  },
+  {
+    "question": "What’s your biggest turn-on?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Have you ever been caught masturbating?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What’s your favourite sexual position?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Have you ever had a one-night stand?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What was the most awkward thing that’s ever happened to you during sex?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "How old were you when you lost your virginity?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Have you ever had sex with someone of the same sex?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Do you like to be submissive or dominant in bed?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What are your thoughts on oral sex?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Have you ever had sex in public?",
+    "shots": 3,
+    "termination": 1
+  },
+  {
+    "question": "Do you watch porn?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "How often do you think about sex?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Would you ever try anal sex?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What was your first sexual experience like?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "When was the last time you had sex?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What’s the most times you’ve had sex in one day?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "How would you rate yourself as a lover?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Have you ever done something naughty in public?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Send a sexy voice recording to your ex.",
+    "shots": 3,
+    "termination": 1
+  },
+  {
+    "question": "Impersonate one of the people in this room.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Imitate your partner when they are angry.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "List five of your exes in alphabetical order.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Text your ex about the prospects of getting
+ 
