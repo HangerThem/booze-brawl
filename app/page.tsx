@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import styled from "styled-components";
 import prompts from "@/data/data.json";
 import ShotGlassIcon from "@/icons/shotGlassIcon";
@@ -86,12 +86,43 @@ export default function Home() {
   useEffect(() => {
     setPrompt(drawPrompt());
 
+    if (window.DeviceOrientationEvent) {
+      window.addEventListener("deviceorientation", handleDeviceOrientation);
+    }
+
     window.addEventListener("keydown", (e) => {
       if (e.key === " ") {
         setPrompt(drawPrompt());
       }
     });
+
+    return () => {
+      window.removeEventListener("deviceorientation", handleDeviceOrientation);
+    };
   }, []);
+
+  const wasTilted = useRef(false);
+
+  const handleDeviceOrientation = (e: DeviceOrientationEvent) => {
+    const el = document.querySelector<HTMLDivElement>("div[termination]");
+    if (el) {
+      if (!e.beta || !e.gamma) return;
+      const rotateY = Math.min(Math.max(e.gamma || 0, -10), 10);
+      const rotateX = Math.min(Math.max(e.beta || 0, -10), 10);
+      el.style.transform = `perspective(1500px) 
+                            rotateX(${rotateX}deg) 
+                            rotateY(${rotateY}deg) 
+                            scale3d(1, 1, 1)`;
+      if (e.beta > 65) {
+        wasTilted.current = true;
+      }
+
+      if (wasTilted.current && e.beta < 50) {
+        setPrompt(drawPrompt());
+        wasTilted.current = false;
+      }
+    }
+  };
 
   const reset = () => {
     setData(prompts);
