@@ -1,167 +1,83 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
-import styled from "styled-components";
-import prompts from "@/data/data.json";
-import ShotGlassIcon from "@/icons/shotGlassIcon";
+import { useRouter } from "next/navigation";
+import styled, { keyframes } from "styled-components";
 
-interface CardProps {
-  termination: string;
-}
-
-interface CardDeckProps {
-  height: number;
-}
-
-const Card = styled.div<CardProps>`
+const Container = styled.div`
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  width: 300px;
-  height: 400px;
-  font-size: 15px;
-  background-color: ${(props) => {
-    return props.termination === "true" ? "#DD0000" : "#000000";
-  }};
-  box-shadow: ${(props) => {
-    return props.termination === "true" ? "0px 0px 50px 4px #AA0000" : "none";
-  }};
-  border-radius: 8px;
-  padding: 16px;
-  color: white;
+  align-items: center;
+  justify-content: center;
+  background-color: #111;
+  padding: 20px;
+  border-radius: 5px;
+`;
 
-  transition: transform 0.5s;
-  transform-style: preserve-3d;
+const bounce = keyframes`
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0) rotate(0);
+  }
+  10% {
+    transform: translateY(-25px) rotate(-2deg);
+  }
+  40% {
+    transform: translateY(-10px) rotate(-1deg);
+  }
+  60% {
+    transform: translateY(-5px) rotate(1deg);
+  }
+  90% {
+    transform: translateY(-2px) rotate(2deg);
+  }
+`;
+
+const Title = styled.h1`
+  color: #333;
+  font-size: 3rem;
+  animation: ${bounce} 2s infinite;
+  transition: color 0.5s;
 
   &:hover {
-    cursor: pointer;
-    transform: scale(1.1) rotateY(10deg) rotateX(10deg);
+    color: #444;
   }
 
-  h2 {
-    margin: 0;
-  }
-
-  p {
-    display: ${(props) => {
-      return props.termination === "true" ? "none" : "flex";
-    }};
-    align-self: flex-end;
-    margin: 0;
-    font-size: 20px;
-    gap: 8px;
-    font-weight: bold;
-
-    svg {
-      margin-right: 8px;
-
-      path {
-        fill: white;
-      }
-    }
+  @media (min-width: 600px) {
+    font-size: 5rem;
   }
 `;
 
-const PageContainer = styled.div`
+const ButtonsContainer = styled.div`
   display: flex;
-  flex-direction: row;
   align-items: center;
-  gap: 16px;
-  height: 100vh;
   justify-content: center;
-  background-color: #070707;
 `;
 
-export default function Home() {
-  const [data, setData] = useState<any>(prompts);
-  const [prompt, setPrompt] = useState<any>(null);
+const Button = styled.button`
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 1em;
+  color: #aaa;
+  background-color: #333;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.25s;
 
-  const drawPrompt = () => {
-    const random = Math.floor(Math.random() * data.length);
-    const prompt = data[random];
-    setData(data.filter((item: any) => item !== prompt));
-    return prompt;
-  };
+  &:hover {
+    transform: scale(1.1);
+  }
+`;
 
-  useEffect(() => {
-    setPrompt(drawPrompt());
-
-    if (window.DeviceOrientationEvent) {
-      window.addEventListener("deviceorientation", handleDeviceOrientation);
-    }
-
-    window.addEventListener("keydown", (e) => {
-      if (e.key === " ") {
-        setPrompt(drawPrompt());
-      }
-    });
-
-    return () => {
-      window.removeEventListener("deviceorientation", handleDeviceOrientation);
-    };
-  }, []);
-
-  const wasTilted = useRef(false);
-
-  const handleDeviceOrientation = (e: DeviceOrientationEvent) => {
-    const el = document.querySelector<HTMLDivElement>("div[termination]");
-    if (el) {
-      if (!e.beta || !e.gamma) return;
-      const rotateY = Math.min(Math.max(e.gamma || 0, -10), 10);
-      const rotateX = Math.min(Math.max(e.beta || 0, -10), 10);
-      el.style.transform = `perspective(1500px) 
-                            rotateX(${rotateX}deg) 
-                            rotateY(${rotateY}deg) 
-                            scale3d(1, 1, 1)`;
-      if (e.beta > 65) {
-        wasTilted.current = true;
-      }
-
-      if (wasTilted.current && e.beta < 50) {
-        setPrompt(drawPrompt());
-        wasTilted.current = false;
-      }
-    }
-  };
-
-  const reset = () => {
-    setData(prompts);
-  };
-
-  const handleMouseMove = (e: React.MouseEvent<HTMLDivElement, MouseEvent>) => {
-    const el = document.querySelector<HTMLDivElement>("div[termination]");
-    if (el) {
-      const x = e.clientX - window.innerWidth / 2;
-      const y = e.clientY - window.innerHeight / 2;
-      const rotateY = Math.min(Math.max(x / 10, -10), 10);
-      const rotateX = Math.min(Math.max(y / -10, -10), 10);
-      el.style.transform = `perspective(1500px) 
-                            rotateX(${rotateX}deg) 
-                            rotateY(${rotateY}deg) 
-                            scale3d(1, 1, 1)`;
-    }
-  };
-
-  useEffect(() => {
-    if (data.length === 0) {
-      reset();
-    }
-  }, [data]);
+export default function HomePage() {
+  const router = useRouter();
 
   return (
-    <PageContainer onMouseMove={(e) => handleMouseMove(e)}>
-      {prompt && (
-        <Card
-          termination={prompt.termination ? "true" : "false"}
-          onClick={() => setPrompt(drawPrompt())}
-        >
-          <h2>{prompt.question}</h2>
-          <p>
-            {prompt.shots}
-            <ShotGlassIcon />
-          </p>
-        </Card>
-      )}
-    </PageContainer>
+    <Container>
+      <Title>BoozeBrawl</Title>
+      <ButtonsContainer>
+        <Button onClick={() => router.push("/game")}>Play</Button>
+        <Button onClick={() => router.push("/rules")}>Rules</Button>
+      </ButtonsContainer>
+    </Container>
   );
 }

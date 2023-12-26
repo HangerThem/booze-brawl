@@ -548,5 +548,300 @@
     "question": "Describe your dream wedding.",
     "shots": 1,
     "termination": 0
+  },
+  {
+    "question": "What's a guilty pleasure of yours that you rarely admit to?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you could switch lives with a fictional character for a day, who would it be and why?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Share a cringe-worthy moment from your past that still makes you squirm.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you had to survive a zombie apocalypse with three people in this room, who would you choose and why?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "What's the most irrational fear you have that you can't seem to shake off?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you were a superhero, what would your superpower be and what would be your weakness?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Share a childhood dream that you've never told anyone about.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you could time travel to any era, past or future, where would you go and what would you do?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe your weirdest or most vivid dream that you can remember.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you were stranded on a deserted island, what three items would you want to have with you?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Share a quirky habit of yours that people might find amusing.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you could speak any language fluently, which one would you choose and why?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you could be famous for one thing, what would it be and why?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe a moment that made you question your beliefs or worldview.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Describe a moment when you had to confront a fear and how it changed you.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "What's the most intense fantasy you've never shared with anyone?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "If you could erase one memory from your past, what would it be and why?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share a moment when you broke your own moral code.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "If you had the power to read minds for a day, whose thoughts would you want to hear?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe a forbidden attraction you've had but never acted upon.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Share a secret desire you've never had the courage to pursue.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "If you could switch bodies with someone for a night, who would it be and what would you do?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe the wildest sexual experience you've ever had, without revealing specifics.",
+    "shots": 3,
+    "termination": 1
+  },
+  {
+    "question": "Share a regret that still haunts you.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "If you could have a one-night stand with any historical figure, who would it be and why?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Share a kink or fetish you've always been curious about but haven't explored.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "If you could undo one intimate encounter from your past, which one would it be?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe a time when you were caught doing something you shouldn't have been doing.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share a secret skill or talent that would surprise those who know you.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you could have a passionate affair with any fictional character, who would it be and why?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe a moment when you were tempted to cheat, and what stopped you.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Share a deep fear that keeps you awake at night.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you could confess one thing to your current partner without consequences, what would it be?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe a situation where you felt an irresistible attraction to someone you shouldn't have.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "If you could erase one person from your past, who would it be and why?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe a moment when you felt a deep sense of shame, and how did you overcome it?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share a secret ambition or desire that you've kept hidden from everyone.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you could have a passionate night with a celebrity, who would it be and what would you do?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe a time when you were tempted to lie about your past to impress someone.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share a moment when you felt true vulnerability in a relationship.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you could experience any taboo fantasy without consequences, what would it be?",
+    "shots": 3,
+    "termination": 1
+  },
+  {
+    "question": "Describe a secret pleasure you indulge in when no one is watching.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share a secret about your body that you've never disclosed to anyone.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Describe a moment when you were intoxicated and made a decision you regretted.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Share a deep insecurity that you've never openly discussed with others.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you could erase one person's memory of you, who would it be and why?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe a moment when you had to fake confidence, and what was the outcome?",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share a dark fantasy that you've never had the courage to explore.",
+    "shots": 3,
+    "termination": 1
+  },
+  {
+    "question": "If you could switch lives with someone for a year, who would it be and why?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe a secret habit you engage in when you're feeling lonely.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "Share a moment when you were tempted to cheat but resisted the urge.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "If you could relive one intimate moment from your past, which one would it be?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe a time when you felt an unexpected attraction to someone much older or younger.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Share a secret passion or hobby that you keep hidden from most people.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you could spend a night with any historical figure, who would it be and why?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe a moment when you were tempted to cross a moral boundary but chose not to.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Share a deep fear that you've never revealed to anyone.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "If you could confess one thing to your ex without consequences, what would it be?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "question": "Describe a secret you've kept from your closest friends for years.",
+    "shots": 1,
+    "termination": 0
   }
 ]

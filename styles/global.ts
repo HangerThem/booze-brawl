@@ -15,4 +15,14 @@ export const GlobalStyle = createGlobalStyle`
     background-color: none;
     color: none;
   }
+
+  main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 16px;
+    min-height: 100vh;
+    justify-content: center;
+    background-color: #070707;
+  }
 `;
