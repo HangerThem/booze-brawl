@@ -138,7 +138,7 @@ export default function RulesPage() {
         </li>
         <li>
           <strong>Round Robin:</strong> Players take turns drawing cards. When
-          it's your turn, you're the focus. Fail, and everyone drinks.
+          it&apos;s your turn, you&apos;re the focus. Fail, and everyone drinks.
         </li>
       </List>
 
