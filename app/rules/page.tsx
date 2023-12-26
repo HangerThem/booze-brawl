@@ -7,6 +7,7 @@ const Container = styled.div`
   display: flex;
   flex-direction: column;
   padding: 20px;
+  max-width: 1000px;
 `;
 
 const Title = styled.h1`
@@ -110,6 +111,36 @@ export default function RulesPage() {
         Ready to own the night, or are you nursing your drink in the corner?
         BoozeBrawl awaits - let the sass-fueled games begin!
       </Text>
+
+      <SubTitle>House Rules:</SubTitle>
+      <Text>
+        BoozeBrawl is a game of chance, but you can make your own rules. Here
+        are a few ideas:
+      </Text>
+      <List>
+        <li>
+          <strong>Team Play:</strong> Form teams and play as a unit. If one
+          teammate fails, the whole team drinks.
+        </li>
+        <li>
+          <strong>Random Pick:</strong> If the card says to pick someone, it
+          will be randomly selected, the way to do this is up to you. To add a
+          twist, the chosen person must take a sip for being selected.
+        </li>
+        <li>
+          <strong>Themed Round:</strong> Declare a themed round (e.g.,
+          pirate-themed, space-themed). Anyone who breaks character takes a
+          penalty shot.
+        </li>
+        <li>
+          <strong>Left Hand Rule:</strong> Perform challenges using only your
+          left hand. Right-handed penalties apply.
+        </li>
+        <li>
+          <strong>Round Robin:</strong> Players take turns drawing cards. When
+          it's your turn, you're the focus. Fail, and everyone drinks.
+        </li>
+      </List>
 
       <SubTitle>
         Ready to <Link href="/game">play</Link>?

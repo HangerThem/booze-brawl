@@ -370,7 +370,7 @@
     "termination": 0
   },
   {
-    "question": "Do sexy mounings like someone receiving it",
+    "question": "Do sexy moanings like someone receiving it",
     "shots": 1,
     "termination": 0
   },
@@ -841,6 +841,96 @@
   },
   {
     "question": "Describe a secret you've kept from your closest friends for years.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "question": "From now on, you can only speak in a foreign accent.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "action": "Kiss the person to your left for 10 seconds.",
+    "shots": 3,
+    "termination": 1
+  },
+  {
+    "action": "Whisper a secret fantasy into the ear of the person across from you.",
+    "shots": 3,
+    "termination": 1
+  },
+  {
+    "action": "Choose someone to give you a sensual back massage for 5 minutes.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "action": "Give a flirty lap dance to the person on your right for 30 seconds.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "action": "Choose someone to feed you a piece of fruit in the sexiest way possible.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "action": "Pick someone to engage in a staring contest with while maintaining intense eye contact.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "action": "Select a person to apply lipstick on you without using their hands.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "action": "Find a creative way to give a peck on the lips to everyone in the room.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "action": "Pick a person to draw a temporary sexy tattoo on your body.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "action": "Select someone to share a piece of ice with in the most intimate way possible.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "action": "Choose someone to apply whipped cream on a body part of your choosing and lick it off.",
+    "shots": 2,
+    "termination": 0
+  },
+  {
+    "action": "Pick a person to give you a sensuous forehead kiss.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "action": "Choose a person to share a passionate dance with.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "action": "Select a person to apply body lotion on your arms and shoulders.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "action": "Choose someone to give you a lingering kiss on the cheek.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "action": "Choose a person to share an intimate hug with.",
+    "shots": 1,
+    "termination": 0
+  },
+  {
+    "action": "Pick someone to trace gentle patterns on your skin with their fingertips.",
     "shots": 1,
     "termination": 0
   }
