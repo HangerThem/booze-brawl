@@ -45,6 +45,11 @@
     "termination": 0
   },
   {
+    "question": "Would you kiss the person to your right?",
+    "shots": 2,
+    "termination": 0
+  },
+  {
     "question": "Who would you choose to be if you could be anyone else for a day?",
     "shots": 2,
     "termination": 0
@@ -435,7 +440,7 @@
     "termination": 0
   },
   {
-    "question": "Call 112 and ask if they need help.",
+    "question": "Call 911 and ask if they need help.",
     "shots": 2,
     "termination": 0
   },
@@ -516,11 +521,6 @@
   },
   {
     "question": "Describe the most romantic gift you've ever received.",
-    "shots": 1,
-    "termination": 0
-  },
-  {
-    "question": "Share a fun and light-hearted dating tip.",
     "shots": 1,
     "termination": 0
   },
